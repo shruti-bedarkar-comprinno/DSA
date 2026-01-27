@@ -1,0 +1,7 @@
+| Sorting   | Time Complexity |
+| --------- | --------------- |
+| Bubble    | O(n²)           |
+| Selection | O(n²)           |
+| Insertion | O(n²)           |
+| Merge     | O(n log n)      |
+| Quick     | O(n log n)      |
