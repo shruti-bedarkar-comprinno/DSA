@@ -38,5 +38,8 @@ class Main {
        //remove
        map.remove(1);
        System.out.println(map);
+
+        //size of hashmap
+         System.out.println(map.size());
     }
 }
