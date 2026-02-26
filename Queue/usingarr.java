@@ -1,5 +1,6 @@
 public class Main {
 
+    
     static class Queue {
         static int arr[];
         static int size;
